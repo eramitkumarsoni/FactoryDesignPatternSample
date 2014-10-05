@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>FA7CDB0F-95AF-42BD-9E88-FAE325AF4BB0</string>
+	<key>IDESourceControlProjectName</key>
+	<string>FactoryPatternSample</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>F2684F37-F916-4D2F-AE75-C93CCCBFF0FD</key>
+		<string>https://svn.strumsoft.com:8443/svn/FlockThere/Avadesh/Samples</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>FactoryPatternSample/FactoryPatternSample.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>F2684F37-F916-4D2F-AE75-C93CCCBFF0FD</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectRepositoryRootDictionary</key>
+	<dict>
+		<key>F2684F37-F916-4D2F-AE75-C93CCCBFF0FD</key>
+		<string>https://svn.strumsoft.com:8443/svn</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://svn.strumsoft.com:8443/svn/FlockThere/Avadesh/Samples/FactoryPatternSample/FactoryPatternSample.xcodeproj</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>F2684F37-F916-4D2F-AE75-C93CCCBFF0FD</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.subversion</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>F2684F37-F916-4D2F-AE75-C93CCCBFF0FD</string>
+			<key>IDESourceControlWCCName</key>
+			<string>Samples</string>
+		</dict>
+	</array>
+</dict>
+</plist>
